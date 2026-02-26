@@ -25,15 +25,6 @@ A modern **Tic Tac Toe** game built with **HTML, Tailwind CSS, and JavaScript**.
 
 ---
 
-## 📂 Project Structure
-
-ic-Tac-Toe/
-├─ index.html
-├─ app.js
-└─ README.md
-
----
-
 ## 🛠️ Tech Stack
 
 - HTML5
