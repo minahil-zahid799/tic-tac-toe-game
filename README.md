@@ -31,3 +31,15 @@ A modern **Tic Tac Toe** game built with **HTML, Tailwind CSS, and JavaScript**.
 - Tailwind CSS
 - JavaScript
 - Git & GitHub
+  
+---
+
+## 📌 Live Preview
+
+Check it here: [Tic Tac Toe Game](---
+
+## 📌 Live Preview
+
+Check it here: [Tic Tac Toe Game](https://minahil-zahid799.github.io/tic-tac-toe-game/)
+
+---
